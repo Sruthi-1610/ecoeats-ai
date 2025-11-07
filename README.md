@@ -18,3 +18,15 @@ View your app in AI Studio: https://ai.studio/apps/temp/1
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Repository
+
+Repository: https://github.com/Sruthi-1610/ecoeats-ai
+
+## CI
+
+This repository includes a GitHub Actions workflow at `.github/workflows/ci.yml` that will run on pushes and pull requests to `main`. It installs dependencies, runs a build (if present), and runs tests (if present).
+
+## License
+
+This project is released under the MIT License — see `LICENSE`.
