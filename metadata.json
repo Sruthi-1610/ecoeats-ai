@@ -1,0 +1,9 @@
+
+{
+  "name": "EcoEats AI",
+  "description": "An AI-powered application to help you tackle food waste by analyzing ingredients, finding local resources, and providing smart meal plans.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
